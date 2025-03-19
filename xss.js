@@ -1,1 +1,1 @@
-console.log("🔥 XSS Executed! 🔥");
+<script>console.log("🔥 XSS Executed! 🔥");</script>
